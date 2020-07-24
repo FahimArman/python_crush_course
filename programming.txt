@@ -1,0 +1,6 @@
+I love programming!
+Hi, There.
+This is another line.
+
+
+Writting in a append mode.

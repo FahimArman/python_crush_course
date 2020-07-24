@@ -2,9 +2,18 @@
 
 import this
 
+import json
+
+import unittest
+
+import pygame
+
+import sys
 
 
 
 
 
 
+pip --version()
+pip3 --version()

@@ -1,0 +1,26 @@
+
+python3 -m pip --version
+
+if not installed: ||::: sudo apt install python3-pip
+
+python3 -m pip install --upgrade pip
+
+
+python3 -m pip install -U pygame --user
+
+
+
+
+After installing, check in the command line:
+=============================================
+
+python3
+
+import pygame
+
+
+There is a builtin game in it |:| Just play it:
+================================================
+
+python3 -m pygame.examples.aliens
+
